@@ -1,1 +1,1 @@
-console.log("yestt")
+console.log("pass")
